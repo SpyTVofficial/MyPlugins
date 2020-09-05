@@ -4,6 +4,10 @@
   overflow: hidden;
 }
 
+.Stats {
+  color: #444444;
+
+}
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
