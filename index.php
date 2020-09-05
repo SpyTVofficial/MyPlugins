@@ -15,6 +15,7 @@
   <a href="plugins/index.php">Plugins</a>
   <a href="contact/index.php">Contact</a>
   <a href="signin/index.php">Sign in</a>
+  <a href="serverstats/index.php">Serverstats</a>
 </div>
 
 <div class="footer">

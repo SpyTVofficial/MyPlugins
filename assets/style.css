@@ -5,8 +5,10 @@
 }
 
 .Stats {
-  color: #444444;
-
+  color: #4CAF50;
+  text-align: left;
+  float: left;
+  text-orientation: upright;
 }
 /* Style the links inside the navigation bar */
 .topnav a {
