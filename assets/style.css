@@ -4,10 +4,12 @@
   overflow: hidden;
 }
 
-.Stats {
-  color: #4CAF50;
+.Stats div {
+  color: #000000;
   text-align: left;
-  float: left;
+  vertical-align: middle;
+  display: inline-block;
+  line-height: normal;
   text-orientation: upright;
 }
 /* Style the links inside the navigation bar */
