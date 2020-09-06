@@ -20,6 +20,10 @@
   <a href="messages/index.php">Messages</a>
 </div>
 
+<div class="banned">
+    <p1>Currently Banned Players: </p1>
+</div>
+
 
 <div class="footer">
   <p><a href="contact/index.php">Contact </a> | MyPlugins | &#169 2020 | <a href="faq/index.php">FAQ</a></p>
