@@ -5,11 +5,13 @@
 }
 
 .Stats {
-  color: #4CAF50;
-  text-align: left;
-  float: left;
-  text-orientation: upright;
+  color: #000000;
 }
+
+.Maintenance{
+  text-align: center;
+}
+
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;

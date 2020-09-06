@@ -10,6 +10,7 @@
 
     <body>
 
+
 <div class="topnav">
   <a href="index.php">Home</a>
   <a href="plugins/index.php">Plugins</a>
@@ -17,6 +18,11 @@
   <a href="signin/index.php">Sign in</a>
   <a href="serverstats/index.php">Serverstats</a>
 </div>
+
+<div class="maintenance">
+  <p> Maintenance </p>
+</div>
+
 
 <div class="footer">
   <p><a href="contact/index.php">Contact </a> | MyPlugins | &#169 2020 | <a href="faq/index.php">FAQ</a></p>

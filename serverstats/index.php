@@ -11,7 +11,7 @@
     </head>
 
     <body>
-        <div class=Stats>
+        <div style = "white-space: pre" class=Stats>
             <p1>Online Players: </p1>
             <p2>Online Staff Members: </p2>
             <p3>Currently Banned Players: </p3>
