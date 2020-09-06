@@ -23,8 +23,8 @@
 <div class="messages">
     <p1>Currently Open Messages: </p1>
     <p2>Closed Messages: </p2>
-    <p3>Latest <bold>Open</bold> Message:</p3>
-    <p4>Latest <bold>Closed</bold> Message:</p4>
+    <p3>Latest <b>Open</b> Message:</p3>
+    <p4>Latest <b>Closed</b> Message:</p4>
 </div>
 
 <div class="footer">
