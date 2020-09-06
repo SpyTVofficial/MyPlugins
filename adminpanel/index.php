@@ -22,7 +22,6 @@
 
 <div class="banned">
     <p1>Currently Banned Players: </p1>
-    <p2>bla bla den ian ass domm</p2>
 </div>
 
 <div class="muted">

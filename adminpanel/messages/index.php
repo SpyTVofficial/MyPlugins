@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php require_once('../assets/assets.php'); ?>
+<?php require_once('../../assets/assets.php'); ?>
 <html>
     
     <head>    
