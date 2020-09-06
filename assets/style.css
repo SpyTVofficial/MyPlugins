@@ -4,6 +4,7 @@
   overflow: hidden;
 }
 
+<<<<<<< HEAD
 .Stats div {
   color: #000000;
   text-align: left;
@@ -11,7 +12,16 @@
   display: inline-block;
   line-height: normal;
   text-orientation: upright;
+=======
+.Stats {
+  color: #000000;
+>>>>>>> 1c4264f98e4920bb271ec73defcfe969d70d167a
 }
+
+.Maintenance{
+  text-align: center;
+}
+
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
