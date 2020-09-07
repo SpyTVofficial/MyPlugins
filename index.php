@@ -17,6 +17,7 @@
   <a href="contact/index.php">Contact</a>
   <a href="signin/index.php">Sign in</a>
   <a href="serverstats/index.php">Serverstats</a>
+  <a href="adminpanel/index.php">Adminpanel</a>
 </div>
 
 <div class="maintenance">
