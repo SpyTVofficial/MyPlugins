@@ -5,7 +5,7 @@ require_once "assets.php";
 <html>
 
 <head>
-    <title> <?php echo htmlspecialchars($title); ?>Home </title>
+    <title> <?php echo htmlspecialchars($title); ?> Home </title>
 </head>
 
 </html>

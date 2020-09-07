@@ -20,10 +20,10 @@
   <a href="messages/index.php">Messages</a>
 </div>
 
-<div class="manage">
-    <p1>Stop Server</p1>
-    <p2>Start Server</p2>
-    <p3>Manage Servers</p3>
+<div class="manage" style = "white-space: pre">
+    <p1><a href="...">Stop Server</a></p1>
+    <p2><a href="...">Start Server</a></p2>
+    <p3><a href="...">Manage Servers</a></p3>
 </div>
 
 <div class="footer">

@@ -1,5 +1,5 @@
 <?php
 
-$title 'LSG | ';
+$title = "LSG | ";
 
 ?>

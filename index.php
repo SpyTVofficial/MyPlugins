@@ -26,7 +26,7 @@
 
 
 <div class="footer">
-  <p><a href="contact/index.php">Contact </a> | MyPlugins | &#169 2020 | <a href="faq/index.php">FAQ</a></p>
+  <p><a href="contact/index.php">Contact </a> | MyPlugins | &#169 2020 | <a href="faq/index.php">FAQ</a> | Zu <a href="lsg/index.php">LSG</a></p>
 </div>
 
 </body>
